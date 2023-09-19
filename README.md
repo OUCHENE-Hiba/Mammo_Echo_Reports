@@ -3,7 +3,7 @@ _Anonymized Mammography and Echography Reports_
 
 ## 🌟 Overview
 
-This repository contains a collection of anonymized mammography and echography reports. The data is meant to facilitate research and innovation in the medical field. Each report has been carefully anonymized to remove any personal identifying information in compliance with relevant data protection regulations.
+This repository contains a collection of anonymized mammography and echography reports. The data is meant to facilitate research and innovation in the medical field. Each report has been carefully anonymized to remove any personal identifying information.
 
 ### Source Information
 
@@ -29,11 +29,11 @@ Their goal is to offer courteous, swift, and professional service at its best. F
 The dataset is organized into two main folders:
 
 1. `All_Reports`
-   - **Description:** This folder contains all the reports(**Mammography_Reports** and **Combined_Mammo_Echo_Reports**) before any classification is done. It serves as a repository for  unprocessed data.
+   - **Description:** This folder contains all the reports(**Mammography_Reports** and **Combined_Mammo_Echo_Reports**) before any classification is done.
 
 2. `Initial_Classification[not yet]`
-   - `Mammography_Reports`: This folder contains anonymized reports related to mammography studies only.
-   - `Combined_Mammo_Echo_Reports`: This folder houses anonymized reports that pertain to both mammography and echography studies.
+   - `Mammography_Reports`: This folder contains anonymized mammography  reports.
+   - `Combined_Mammo_Echo_Reports`: This folder houses anonymized reports that pertain to both mammography and echography at the same time.
 
 
 
@@ -61,7 +61,7 @@ The reports have undergone a stringent anonymization process where all personall
 
 
 
-## 📜 License
+## 📜 License [Not yet!]
 
 This dataset is released under the [Not yet!](link:not yet). By using this dataset, you agree to comply with the terms of this license, which includes crediting the original creator when utilizing this data in your project or publication.
 
@@ -71,7 +71,7 @@ If you use this dataset, please cite it as follows:
 
 > 📌 This project uses data provided by [OUCHENE Hiba/LRDSI laboratory| Saad Dahlab University|Blida, Algeria], available at [https://github.com/OUCHENE-Hiba/Mammo_Echo_Reports].
 
-For more detailed citation information, refer to the `CITATION.md` file in this repository.
+<!--For more detailed citation information, refer to the `CITATION.md` file in this repository. -->
 
 ## 📬 Contact
 
@@ -83,12 +83,12 @@ For any queries, suggestions, or collaborations, please reach out to:
 
 ## 🤝 Contribution
 
-We welcome contributions to improve the dataset. If you wish to contribute, please review the `CONTRIBUTING.md` file for guidelines on how to propose changes or additions to the dataset.
+We welcome contributions to improve the dataset. <!--If you wish to contribute, please review the `CONTRIBUTING.md` file for guidelines on how to propose changes or additions to the dataset. -->
 
 ## 💖 Acknowledgments
 
-This project was made possible through the efforts of [Medical Imaging Center Dr Lekhal, Blida, Algeria](https://www.cilm-dz.com/).
+This project was made possible through the  [Medical Imaging Center Dr Lekhal, Blida, Algeria](https://www.cilm-dz.com/).
 
-Thank you for providing us the access to your center, using your material, accessing to your system and getting your pathology reports, answering to my questions, using and supporting this project!
+Thank you for providing us the access to your center, using your material, accessing to your system and getting your data!
 
 Thank you to Dr. Lekhal Mohamed the head of the center, Dr. Lekhal Sara, Breast Cancer specialist medicin, Amine, Computer Science engineer, and all persons who smiled in my face at the center! 
